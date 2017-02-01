@@ -32,12 +32,16 @@ function greet(x) {
 }
 
 // Q6
+var e = "By the will of Genghis we can!"
+
 function madlib(w, x, y, z) {
-  var result = w + ' ' + x + ' ' + y + ' ' + z;
+  var result = w + ' ' + x + ' ' + y + ' ' + z + ' ' + e;
   return result ;
   }
 
 
   // Excercise 2
   // Q1
-  
+function max () {
+
+}
